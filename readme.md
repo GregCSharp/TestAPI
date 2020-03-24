@@ -6,5 +6,5 @@ Things I used
 VS Code
 Github
 
-# line from home
-# line from office
+# new recommandations
+use github
