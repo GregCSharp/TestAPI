@@ -17,5 +17,5 @@ steps:
   inputs:
     packageType: 'sdk'
     version: '3.0.100'
-- script: dotnet build TestApi/test.api/test.api.csproj --configuration $(buildConfiguration)
+- script: dotnet build test.api/test.api.csproj --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
